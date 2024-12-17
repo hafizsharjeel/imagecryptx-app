@@ -15,7 +15,6 @@ st.markdown("""
         }
         .about-me {
             font-size: 18px;
-            color: #000000; /* Black color for readability */
             text-align: left;
         }
         .subheading {
