@@ -21,7 +21,7 @@ st.markdown("""
             font-size: 22px;
             font-weight: bold;
             margin-top: 20px;
-            color: #000000;
+            
         }
         .list-item {
             font-size: 18px;
